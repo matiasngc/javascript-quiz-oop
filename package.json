@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2"
+  },
+  "name": "javascript-quiz-oop",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Fazt",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
